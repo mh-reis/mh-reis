@@ -6,7 +6,7 @@ Me chamo Matheus Henrique Reis, tenho 20 anos e sou do Rio de Janeiro. Atualment
 
 ## 
 
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 
 <img 
