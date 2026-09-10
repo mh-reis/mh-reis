@@ -1,6 +1,6 @@
 **`Estudante de Segurança da Informação`**
 
-Me chamo Matheus Henrique Reis, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Sistemas de Informação na UFF.
+Me chamo Matheus Henrique Reis, tenho 20 anos e sou do Rio de Janeiro. Atualmente estou cursando Sistemas de Informação na UFF.
 
 - 🌱 Atualmente estudando Linux e análise de tráfego
 
